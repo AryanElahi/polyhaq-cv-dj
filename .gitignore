@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Official organiser files — not ours to redistribute; place them next to the notebook
+cv_dj_stage2_public_evaluator.py
+stage1_unlocks.json
+
+# Files the notebook writes when run (canonical copies live in figures/ and results/)
+notebooks/_stage1_unlocks_inline.json
+notebooks/best.npy
+notebooks/convergence_history.json
+notebooks/submission.json
+notebooks/fig_*.png
