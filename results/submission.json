@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "team": "polyhaq",
+  "prep": [
+    {
+      "gate": "S",
+      "theta": 0.361132
+    },
+    {
+      "gate": "R",
+      "theta": 0.57924846
+    },
+    {
+      "gate": "P",
+      "theta": -1.05130882
+    },
+    {
+      "gate": "I",
+      "theta": 0.0
+    },
+    {
+      "gate": "R",
+      "theta": -1.13949711
+    },
+    {
+      "gate": "P",
+      "theta": 0.18265712
+    },
+    {
+      "gate": "I",
+      "theta": 0.0
+    },
+    {
+      "gate": "R",
+      "theta": 0.80194097
+    },
+    {
+      "gate": "X",
+      "theta": -0.059383
+    }
+  ],
+  "readout": [
+    {
+      "gate": "R",
+      "theta": -0.05715186
+    },
+    {
+      "gate": "P",
+      "theta": 0.04701168
+    },
+    {
+      "gate": "I",
+      "theta": 0.0
+    },
+    {
+      "gate": "R",
+      "theta": -0.08839568
+    },
+    {
+      "gate": "P",
+      "theta": -0.06597984
+    },
+    {
+      "gate": "S",
+      "theta": 0.03247688
+    }
+  ]
+}
